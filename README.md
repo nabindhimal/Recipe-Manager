@@ -13,6 +13,8 @@ Recipe Manager is a simple web application written in Laravel framework which he
 
 ## Usage
 
+Create a .env file on project root folder and add your database credentials. 
+
 ```bash
 git clone https://github.com/nabindhimal/Recipe-Manager
 cd Recipe-Manager
@@ -21,6 +23,11 @@ php artisan migrate
 npm run dev
 ```
 
+On seperate terminal window
+
+```bash
+php artisan serve
+```
 
 
 
