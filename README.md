@@ -11,6 +11,16 @@
 
 Recipe Manager is a simple web application written in Laravel framework which helps on effective recipe management and notekeeping.
 
+## Usage
+
+```bash
+git clone https://github.com/nabindhimal/Recipe-Manager
+cd Recipe-Manager
+npm install
+php artisan migrate
+npm run dev
+```
+
 
 
 
